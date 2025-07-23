@@ -31,7 +31,7 @@ I like making things work—then making them smarter.
 
 ## > Featured Projects
 
-- [**to-add**](#) – to add
+- [**TodoistGPT**](https://github.com/Yebione/TodoistGPT) – A simple AI tool that suggests optimal times for your Todoist tasks using OpenAI.
 
 > Built with: curiosity, coffee, and questionable sleep habits.
 
