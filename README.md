@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dca69tvt7/image/upload/v1753285139/pic_urnq5c.png" alt="Kyle Billones" width="150" style="border-radius: 50%;">
+  <img src="https://res.cloudinary.com/dca69tvt7/image/upload/v1753285139/pic_urnq5c.png" alt="Kyle Billones" height="150">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Hey+I'm+Kyle+Billones!;I+love+AI...;...So+I+build+AI" alt="Typing SVG" />
