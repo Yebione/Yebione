@@ -5,6 +5,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Hey+I'm+Kyle+Billones!;I+love+AI...;...So+I+build+AI!" alt="Typing SVG" />
 </p>
 
+
+<p align="center">
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20Visit%20My%20Portfolio%20%E2%97%80-1E84C7?style=for-the-badge" alt="Visit My Portfolio" />
+  </a>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yebione&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
