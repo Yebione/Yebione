@@ -1,21 +1,56 @@
-<img src="https://img.icons8.com/ios/250/FFFFFF/surface.png" width="100" />
+<p align="center">
+  <img src="https://res.cloudinary.com/dca69tvt7/image/upload/v1753285139/pic_urnq5c.png" alt="Kyle Billones" width="150" style="border-radius: 50%;">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Hey+I'm+Kyle+Billones!;I+love+AI...;...So+I+build+AI" alt="Typing SVG" />
+</p>
 
-# My Dimensions  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yebione&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-Hello there! My name is Kyle Billones. I’m a **4th-year Computer Science student** at the prestigious **West Visayas State University**. I thrive on **creating, exploring, and innovating**—always looking for ways to push boundaries through technology.  
+---
 
-### 🖥 Why Computer Science?  
+## Who?
 
-With a passion for **problem-solving, design, and robotics**, Computer Science is the perfect path for me. As the world moves towards a tech-driven future, I aim to be at the forefront—building **smart, impactful solutions** that make a difference.  
+Hey, I’m Kyle—AI automation builder, robotics tinkerer, and recent **magna cum laude CS grad** from **West Visayas State University**.
 
-Here are the **programming languages & frameworks** I work with:  
+I like making things work—then making them smarter.
 
-💻 **Python, C++, ROS (Robot Operating System)**  
-📱 **Flutter/Dart**  
-🌐 **HTML, CSS, JavaScript, Tailwind, React, TypeScript**  
+---
 
-### 🤖 Why Yebione?  
+## What I Do?
 
-Ever wondered why my username is **Yebione**? Try typing **Kyle Billones** without spaces and without using the **2nd (middle) row** of the keyboard. 😉  
+🧠 **AI Agents** – LangChain, RAG, OpenAI API, automation pipelines  
 
-🚀 **Always learning. Always building. To conjure wonders from the void.**
+🤖 **Robotics** – Arduino, ESP, Robotic Operating System (ROS)
+
+⚡ **Workflow Engineering** – n8n, Javascript, Python scripting  
+
+---
+
+## 🛠 Featured Projects
+
+- [**Access Assist**](#) – Voice, vision, and EEG control for wheelchairs  
+- [**ResiBOT**](#) – OCR + LLM receipt parser with Supabase + n8n  
+- [**Project Ilaga**](#) – Python-over-WiFi rover powered by ESP8266
+
+> Built with: curiosity, coffee, and questionable sleep habits.
+
+---
+
+
+## 💬 Let’s Connect
+
+- 📁 [Visit my portfolio](yebione.vercel.app)  
+- 🤝 [Message me](https://t.me/Yebione) for collabs or cool ideas
+
+---
+
+### What’s “Yebione”?
+
+Try typing **Kyle Billones** without the middle row of your keyboard 😉
+
+---
+
+🚀 *Always building. Always curious. Always down to explore the edge of what's possible.*
