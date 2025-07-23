@@ -13,9 +13,15 @@
 
 ## > Who Am I?
 
-Hey, I’m Kyle—AI automation builder, robotics tinkerer, and recent **magna cum laude CS grad** from **West Visayas State University**.
+Hey, I’m Kyle Billones. An AI automation builder, robotics tinkerer, and recent **magna cum laude CS grad** from **West Visayas State University**.
+</br></br>
 
-I like making things work—then making them smarter.
+I like making things work then making them smarter. 
+
+I like building pretty and functional things too. 
+
+Actually, I just like building things in general, hehe.
+</br></br>
 
 ---
 
@@ -27,21 +33,28 @@ I like making things work—then making them smarter.
 
 ⚡ **Workflow Engineering** – n8n, Javascript, Python scripting  
 
+
 ---
 
 ## > Featured Projects
 
 - [**TodoistGPT**](https://github.com/Yebione/TodoistGPT) – A simple AI tool that suggests optimal times for your Todoist tasks using OpenAI.
 
+</br>
+
 > Built with: curiosity, coffee, and questionable sleep habits.
+
 
 ---
 
 ## > Let’s Connect
 
-- 🤝 [Message me on Telegram](https://t.me/Yebione)  
-- 💼 [LinkedIn](https://linkedin.com/in/kylebillones/)  
+- 🤝 [Message me on Telegram](https://t.me/Yebione)
+  
+- 💼 [LinkedIn](https://linkedin.com/in/kylebillones/)
+  
 - 📫 Email: kylebillones.63@gmail.com
+  
 
 ---
 
@@ -49,6 +62,8 @@ I like making things work—then making them smarter.
 
 Try typing **Kyle Billones** without the middle row of your keyboard 😉
 
+
 ---
+
 
 ### 🚀 *Always building. Always curious. Always down to explore the edge of what's possible.*
