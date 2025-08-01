@@ -55,7 +55,7 @@ Actually, I just like building things in general, hehe.
 
 ## > Let’s Connect
 
-- 🤝 [Message me on Telegram](https://t.me/Yebione) test
+- 🤝 [Message me on Telegram](https://t.me/Yebione) 
   
 - 💼 [LinkedIn](https://linkedin.com/in/kylebillones/)
   
