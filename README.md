@@ -33,7 +33,7 @@ Actually, I just like building things in general, hehe.
 
 ## > What I Do?
 
-🧠 **AI Agents** – LangChain, RAG, OpenAI API, automation pipeline
+🧠 **AI Agents** – LangChain, RAG, OpenAI API, automation pipelines
 
 🤖 **Robotics** – Arduino, ESP, Robotic Operating System (ROS)
 
