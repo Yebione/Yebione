@@ -66,7 +66,7 @@ Actually, I just like building things in general, hehe.
 
 ## What’s “Yebione”?
 
-Try typing **Kyle Billones** without the middle row of your keyboard 😉
+Try typing **Kyle Billones** without the middle row of your keyboard! 😉
 
 
 ---
